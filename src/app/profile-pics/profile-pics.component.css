@@ -1,0 +1,91 @@
+.imageDiv1{
+
+    background-image: url(../../assets/amu.jpg);
+    width: 19%;
+    height: 100%;
+    border-radius: 20px;
+    border: 1px solid black;
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.imageDiv2{
+
+    background-image: url(../../assets/me.jpg);
+    position: cover;
+    width: 19%;
+    height: 100%;
+    border-radius: 20px;
+    border: 1px solid black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.imageDiv3{
+
+    background-image: url(../../assets/nolly.jpg);
+    width: 19%;
+    height: 100%;
+    border-radius: 20px;
+    border: 1px solid black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.imageDiv4{
+
+    background-image: url(../../assets/pheto.jpg);
+    width: 19%;
+    height: 100%;
+    border-radius: 5px;
+    border: 1px solid black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+
+span{
+
+    color: white;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+.imageDiv5{
+
+    background-image: url(.../../../../assets/success.jpg);
+    width: 19%;
+    height: 100%;
+    border-radius: 20px;
+    border: 1px solid black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}

@@ -1,0 +1,47 @@
+.mainSectionContainer{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+app-nav-bar{
+
+    background-color: black;
+    width: 25%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    gap: 1em;
+
+    
+}
+
+app-middle{
+
+    background-color: black;
+    width: 45%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+}
+
+app-right{
+
+    background-color: black;
+    width: 25%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+}

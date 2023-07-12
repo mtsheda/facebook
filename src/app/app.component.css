@@ -1,0 +1,29 @@
+.mainWrapper{
+
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+app-toolbar{
+
+    background-color: #333333;
+    height: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    padding: 1%;
+}
+
+app-main-section{
+
+    background-color: black;
+    height: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    padding: 1%;
+}

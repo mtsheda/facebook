@@ -1,0 +1,39 @@
+.toolBarMain{
+
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+    background-color: #333333;
+    align-items: center;
+}
+
+app-search-bar{
+
+    
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+app-middle-icons{
+
+   
+    width: 45%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+app-right-icons{
+
+    
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
