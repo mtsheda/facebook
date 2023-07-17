@@ -1,6 +1,6 @@
 .imageDiv1{
 
-    background-image: url(../../assets/amu.jpg);
+    background-image: url(../../assets/addtostory.png);
     width: 19%;
     height: 100%;
     border-radius: 20px;
@@ -17,7 +17,7 @@
 
 .imageDiv2{
 
-    background-image: url(../../assets/me.jpg);
+    background-image: url(../../assets/tom.png);
     position: cover;
     width: 19%;
     height: 100%;
@@ -34,7 +34,7 @@
 
 .imageDiv3{
 
-    background-image: url(../../assets/nolly.jpg);
+    background-image: url(../../assets/betty.png);
     width: 19%;
     height: 100%;
     border-radius: 20px;
@@ -50,7 +50,7 @@
 
 .imageDiv4{
 
-    background-image: url(../../assets/pheto.jpg);
+    background-image: url(../../assets/cynthia.png);
     width: 19%;
     height: 100%;
     border-radius: 5px;
@@ -68,7 +68,7 @@
 span{
 
     color: white;
-    font-weight: bolder;
+    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -79,7 +79,7 @@ span{
     background-image: url(.../../../../assets/success.jpg);
     width: 19%;
     height: 100%;
-    border-radius: 20px;
+    border-radius: 10px;
     border: 1px solid black;
     background-size: cover;
     background-position: center;
@@ -87,5 +87,7 @@ span{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding: 50%;
+
 
 }

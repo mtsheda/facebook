@@ -4,7 +4,7 @@
     justify-content: space-between;
     height: 100%;
     width: 100%;
-    background-color: #333333;
+    
     align-items: center;
 }
 
@@ -16,7 +16,10 @@ app-search-bar{
     display: flex;
     justify-content: space-between;
     align-items: center;
+   
+    justify-self: center;
 }
+    
 
 app-middle-icons{
 
@@ -26,6 +29,9 @@ app-middle-icons{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
+    justify-self: center;
+    
 }
 
 app-right-icons{
@@ -36,4 +42,6 @@ app-right-icons{
     display: flex;
     justify-content: space-between;
     align-items: center;
+  
+    
 }

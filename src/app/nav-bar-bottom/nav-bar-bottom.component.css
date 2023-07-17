@@ -9,7 +9,14 @@
 button{
 
     height: 15%;
-    background-color: grey;
+    background-color: #333333;
     border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+select{
+    color: white;
+    background-color: transparent;
     border: none;
 }

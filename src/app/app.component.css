@@ -1,26 +1,31 @@
 .mainWrapper{
 
     height: 100vh;
-    background-color: black;
+    
     display: flex;
     flex-direction: column;
+    margin-left: 40px;
+    padding-right: 40px;
+    
 }
 
 app-toolbar{
 
-    background-color: #333333;
+    background-color: #242527;
     height: 5%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     align-content: center;
     padding: 1%;
+   
+
 }
 
 app-main-section{
 
-    background-color: black;
-    height: 95%;
+    background-color: #18191A;
+    height: 97%;
     display: flex;
     justify-content: space-between;
     align-items: center;

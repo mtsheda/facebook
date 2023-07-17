@@ -5,10 +5,31 @@ h3{
 
 .pizza{
 
-    height: 20;
+    height: 20%;
 }
 img{
 
     height: 50%;
     border-radius: 20px;
+    width: 80%;
+}
+
+.pizzaBlock{
+
+    display: flex;
+    height: 100%;
+
+}
+
+.smallPiza{
+
+width: 10%;
+height: 10%;
+
+}
+
+.bigPizza{
+
+    height: 100%;
+    width: 100%;
 }

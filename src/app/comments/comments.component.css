@@ -2,17 +2,27 @@ input{
 
     width: 100%;
     border-radius: 20px;
-    background-color: grey;
+    background-color: #424242;
     border: none;
 }
 
 .imgAndInput{
 
     display: flex;
+    height: 30%;
 }
 
 .btnMsgs{
 
     display: flex;
     justify-content: space-between;
+    color: white;
+}
+
+img{
+
+    border-radius: 50%;
+    width: 10%;
+    height: 80%;
+
 }

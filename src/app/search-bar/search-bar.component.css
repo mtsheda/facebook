@@ -1,20 +1,38 @@
-.inputParagraphp{
+.inputDiv{
 
-    height: 80%;
+    height: 100%;
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.inputParagraph{
+
     width: 90%;
-    background-color: grey;
-    
+    background-color: #424242;
+    height: 90%;
     border-radius: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
     align-content: center;
+    padding: 2%;
 }
+
+
 
 input{
 
-    width: 90%;
+    width: 100%;
     background-color: transparent;
     border: none;
     color: black;
+
+}
+
+img{
+
+    height: 90%;
 }
